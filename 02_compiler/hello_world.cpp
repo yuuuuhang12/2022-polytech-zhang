@@ -1,7 +1,7 @@
-#include "fuch.cpp"
-
-int main() 
+#include <iostream>
+                
+int main()
 {
-  print();
-  return 0;
+    std::cout << "Hello World" << std::endl;
+    return 0;
 }
