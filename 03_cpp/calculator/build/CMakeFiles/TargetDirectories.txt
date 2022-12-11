@@ -1,3 +1,0 @@
-C:/Users/zhang/2022-polytech-zhang/03_cpp/calculator/build/CMakeFiles/calculator.dir
-C:/Users/zhang/2022-polytech-zhang/03_cpp/calculator/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/zhang/2022-polytech-zhang/03_cpp/calculator/build/CMakeFiles/ZERO_CHECK.dir
