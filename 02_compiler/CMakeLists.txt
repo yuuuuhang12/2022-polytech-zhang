@@ -4,4 +4,4 @@ project(hello_world)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(hello_world src/func.cpp src/hello_world.cpp src/func.cpp)
+add_executable(hello_world func.cpp hello_world.cpp func.cpp)
